@@ -1,0 +1,5 @@
+-.env file [Connection to PostGres DB]
+-Basic CRUD Operations without TypeORM
+-DTO file
+-Entity File
+-Interface File
